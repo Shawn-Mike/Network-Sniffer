@@ -50,15 +50,9 @@ Examples:
 
 
 ## Example Output
-Packet captured: Length: 54 bytes
-Cap Length: 54
-Ether Type: 0x0800
-From: 192.168.1.100
-To: 142.250.190.78
-Protocol: 6
-TCP Src Port: 51514
-TCP Dst Port: 443
-Flags: ACK 
+
+<img width="491" height="614" alt="image" src="https://github.com/user-attachments/assets/3f66a6fb-29e7-4b2d-a984-f25df6351688" />
+
 
 
 
